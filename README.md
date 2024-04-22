@@ -16,5 +16,7 @@ Created various visualizations, such as bar charts, line graphs, heat maps, and 
 Structured the visualizations and analysis into a coherent storyline that flowed logically from one point to the next.
 
 **Outcome**
+
 &nbsp;&nbsp;
+
 <img width="687" alt="image" src="https://github.com/ChakshuM/TableauNetflixProject/assets/50142921/4e976df8-32a7-46d8-8756-452241a21cf5">
